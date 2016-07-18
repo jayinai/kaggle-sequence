@@ -20,5 +20,10 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [ICDAR 2011 - Arabic Writer Identification](https://www.kaggle.com/c/WIC2011)
 
+Mon 28 Feb 2011 – Sun 10 Apr 2011
 
+This competition require participants to develop an algorithm to identify who wrote which documents. The winner will be honored at a special session of the ICDAR 2011 conference.
+
+======
