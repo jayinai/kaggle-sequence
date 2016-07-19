@@ -20,6 +20,30 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [CPROD1: Consumer PRODucts contest #1](https://www.kaggle.com/c/cprod1)
+
+Mon 2 Jul 2012 – Mon 24 Sep 2012
+
+Identify product mentions within a largely user-generated web-based corpus and disambiguate the mentions against a large product catalog.
+
+======
+
+### [Detecting Insults in Social Commentary](https://www.kaggle.com/c/detecting-insults-in-social-commentary)
+
+Tue 18 Sep 2012 – Fri 21 Sep 2012
+
+The challenge is to detect when a comment from a conversation would be considered insulting to another participant in the conversation.
+
+======
+
+### [CHALEARN Gesture Challenge 2](https://www.kaggle.com/c/GestureChallenge2)
+
+Tue 8 May 2012 – Tue 11 Sep 2012
+
+Develop a Gesture Recognizer for Microsoft Kinect (TM)
+
+======
+
 ### [GigaOM WordPress Challenge: Splunk Innovation Prospect](https://www.kaggle.com/c/predict-wordpress-likes)
 
 Wed 20 Jun 2012 – Fri 7 Sep 2012
