@@ -20,6 +20,54 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [GigaOM WordPress Challenge: Splunk Innovation Prospect](https://www.kaggle.com/c/predict-wordpress-likes)
+
+Wed 20 Jun 2012 – Fri 7 Sep 2012
+
+Predict which blog posts someone will like.
+
+======
+
+### [The Hewlett Foundation: Short Answer Scoring](https://www.kaggle.com/c/asap-sas)
+
+Mon 25 Jun 2012 – Wed 5 Sep 2012
+
+Develop a scoring algorithm for student-written short-answer responses.
+
+======
+
+### [EMC Israel Data Science Challenge](https://www.kaggle.com/c/emc-data-science)
+
+Mon 18 Jun 2012 – Sat 1 Sep 2012
+
+Match source code files to the open source code project
+
+======
+
+### [The Hewlett Foundation: Automated Essay Scoring](https://www.kaggle.com/c/asap-aes)
+
+Fri 10 Feb 2012 – Mon 30 Apr 2012
+
+Develop an automated scoring algorithm for student-written essays.
+
+======
+
+### [ICFHR 2012 - Arabic Writer Identification](https://www.kaggle.com/c/awic2012)
+
+Tue 21 Feb 2012 – Sun 15 Apr 2012
+
+Identify which writer wrote which documents.
+
+======
+
+### [CHALEARN Gesture Challenge](https://www.kaggle.com/c/GestureChallenge)
+
+Wed 7 Dec 2011 – Tue 10 Apr 2012
+
+Develop a Gesture Recognizer for Microsoft Kinect (TM)
+
+======
+
 ### [ICDAR 2011 - Arabic Writer Identification](https://www.kaggle.com/c/WIC2011)
 
 Mon 28 Feb 2011 – Sun 10 Apr 2011
