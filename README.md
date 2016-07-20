@@ -1,8 +1,8 @@
-# Kaggle - Text
+# Kaggle - NLP
 
 "Those who cannot remember the past are condemned to repeat it." -- George Santayana
 
-This is a compiled list of Kaggle competitions and their winning solutions for [text](https://en.wikipedia.org/wiki/Natural_language_processing) problems. 
+This is a compiled list of Kaggle competitions and their winning solutions for [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) problems. 
 
 The purpose to complie this list is for easier access and therefore learning from the best in data science.
 
@@ -21,11 +21,75 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [Large Scale Hierarchical Text Classification](https://www.kaggle.com/c/lshtc)
+
+Wed 22 Jan 2014 – Tue 22 Apr 2014
+
+Classify Wikipedia documents into one of 325,056 categories
+
+======
+
+### [Personalized Web Search Challenge](https://www.kaggle.com/c/yandex-personalized-web-search-challenge)
+
+Fri 11 Oct 2013 – Fri 10 Jan 2014
+
+Re-rank web documents using personal preferences
+
+======
+
+### [Facebook Recruiting III - Keyword Extraction](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction)
+
+Fri 30 Aug 2013 – Fri 20 Dec 2013
+
+This competition tests your text skills on a large dataset from the Stack Exchange sites.  The task is to predict the tags (a.k.a. keywords, topics, summaries), given only the question text and its title. The dataset contains content from disparate stack exchange sites, containing a mix of both technical and non-technical questions.
+
+======
+
+### [Partly Sunny with a Chance of Hashtags](https://www.kaggle.com/c/crowdflower-weather-twitter)
+
+Fri 27 Sep 2013 – Sun 1 Dec 2013
+
+What can a #machine learn from tweets about the #weather?
+
+======
+
+### [Multi-label Bird Species Classification - NIPS 2013](https://www.kaggle.com/c/multilabel-bird-species-classification-nips2013)
+
+Wed 16 Oct 2013 – Sun 24 Nov 2013
+
+Identify which of 87 classes of birds and amphibians are present into 1000 continuous wild sound recordings
+
+======
+
+### [Belkin Energy Disaggregation Competition](https://www.kaggle.com/c/belkin-energy-disaggregation-competition)
+
+Tue 2 Jul 2013 – Wed 30 Oct 2013
+
+Disaggregate household energy consumption into individual appliances
+
+======
+
+### [MLSP 2013 Bird Classification Challenge](https://www.kaggle.com/c/mlsp-2013-birds)
+
+Mon 17 Jun 2013 – Mon 19 Aug 2013
+
+Predict the set of bird species present in an audio recording, collected in field conditions.
+
+======
+
+### [The ICML 2013 Whale Challenge - Right Whale Redux](https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux)
+
+Fri 10 May 2013 – Mon 17 Jun 2013
+
+Develop recognition solutions to detect and classify right whales for BIG data mining and exploration studies
+
+======
+
 ### [The ICML 2013 Bird Challenge](https://www.kaggle.com/c/the-icml-2013-bird-challenge)
 
-Identify bird species from continuous audio recordings
+Wed 8 May 2013 – Mon 17 Jun 2013
 
-Identify product mentions within a largely user-generated web-based corpus and disambiguate the mentions against a large product catalog.
+Identify bird species from continuous audio recordings
 
 ======
 
