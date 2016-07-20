@@ -21,6 +21,14 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [The Hunt for Prohibited Content](https://www.kaggle.com/c/avito-prohibited-content)
+
+Tue 24 Jun 2014 – Sun 31 Aug 2014
+
+Predict which ads contain illicit content
+
+======
+
 ### [Large Scale Hierarchical Text Classification](https://www.kaggle.com/c/lshtc)
 
 Wed 22 Jan 2014 – Tue 22 Apr 2014
