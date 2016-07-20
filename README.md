@@ -1,8 +1,8 @@
-# Kaggle - Deep Learning
+# Kaggle - Text
 
 "Those who cannot remember the past are condemned to repeat it." -- George Santayana
 
-This is a compiled list of Kaggle competitions and their winning solutions for [deep learning](https://en.wikipedia.org/wiki/Deep_learning) problems. 
+This is a compiled list of Kaggle competitions and their winning solutions for [text](https://en.wikipedia.org/wiki/Natural_language_processing) problems. 
 
 The purpose to complie this list is for easier access and therefore learning from the best in data science.
 
@@ -14,9 +14,18 @@ This is only one list of the whole compilation. For other lists of competitions 
 
 * Kaggle - [Regression](https://github.com/ShuaiW/kaggle-regression/)
 * Kaggle - [Classification](https://github.com/ShuaiW/kaggle-classification/)
+* Kaggle - [Image](https://github.com/ShuaiW/kaggle-image)
 * Kaggle - [Miscellaneous](https://github.com/ShuaiW/kaggle-miscellaneous)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+### [The ICML 2013 Bird Challenge](https://www.kaggle.com/c/the-icml-2013-bird-challenge)
+
+Identify bird species from continuous audio recordings
+
+Identify product mentions within a largely user-generated web-based corpus and disambiguate the mentions against a large product catalog.
 
 ======
 
@@ -33,14 +42,6 @@ Identify product mentions within a largely user-generated web-based corpus and d
 Tue 18 Sep 2012 – Fri 21 Sep 2012
 
 The challenge is to detect when a comment from a conversation would be considered insulting to another participant in the conversation.
-
-======
-
-### [CHALEARN Gesture Challenge 2](https://www.kaggle.com/c/GestureChallenge2)
-
-Tue 8 May 2012 – Tue 11 Sep 2012
-
-Develop a Gesture Recognizer for Microsoft Kinect (TM)
 
 ======
 
@@ -76,19 +77,19 @@ Develop an automated scoring algorithm for student-written essays.
 
 ======
 
+### [The Marinexplore and Cornell University Whale Detection Challenge](https://www.kaggle.com/c/whale-detection-challenge)
+
+Fri 8 Feb 2013 – Mon 8 Apr 2013
+
+Create an algorithm to detect North Atlantic right whale calls from audio recordings, prevent collisions with shipping traffic
+
+======
+
 ### [ICFHR 2012 - Arabic Writer Identification](https://www.kaggle.com/c/awic2012)
 
 Tue 21 Feb 2012 – Sun 15 Apr 2012
 
 Identify which writer wrote which documents.
-
-======
-
-### [CHALEARN Gesture Challenge](https://www.kaggle.com/c/GestureChallenge)
-
-Wed 7 Dec 2011 – Tue 10 Apr 2012
-
-Develop a Gesture Recognizer for Microsoft Kinect (TM)
 
 ======
 
