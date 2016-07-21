@@ -1,8 +1,8 @@
-# Kaggle - NLP
+# Kaggle - Sequence
 
 "Those who cannot remember the past are condemned to repeat it." -- George Santayana
 
-This is a compiled list of Kaggle competitions and their winning solutions for [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) problems. 
+This is a compiled list of Kaggle competitions and their winning solutions for sequential data, such as [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) problems. 
 
 The purpose to complie this list is for easier access and therefore learning from the best in data science.
 
@@ -18,6 +18,54 @@ This is only one list of the whole compilation. For other lists of competitions 
 * Kaggle - [Miscellaneous](https://github.com/ShuaiW/kaggle-miscellaneous)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+### [Integer Sequence Learning](https://www.kaggle.com/c/integer-sequence-learning)
+
+Thu 2 Jun 2016 - Fri 30 Sep 2016
+
+The On-Line Encyclopedia of Integer Sequences is a 50+ year effort by mathematicians the world over to catalog sequences of integers.
+
+======
+
+### [The Winton Stock Market Challenge](https://www.kaggle.com/c/the-winton-stock-market-challenge)
+
+Tue 27 Oct 2015 – Tue 26 Jan 2016
+
+In this recruiting competition, Winton challenges you to take on the very difficult task of predicting the future (stock returns). Given historical stock performance and a host of masked features, can you predict intra and end of day returns without being deceived by all the noise? 
+
+======
+
+### [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
+
+Mon 1 Jun 2015 – Mon 5 Oct 2015
+
+Remove noise from printed text
+
+======
+
+### [Grasp-and-Lift EEG Detection](https://www.kaggle.com/c/grasp-and-lift-eeg-detection)
+
+Mon 29 Jun 2015 – Mon 31 Aug 2015
+
+Identify hand motions from EEG recordings
+
+======
+
+### [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+
+Tue 9 Dec 2014 – Tue 30 Jun 2015
+
+Use Google's Word2Vec for movie reviews
+
+======
+
+### [Billion Word Imputation](https://www.kaggle.com/c/billion-word-imputation)
+
+Thu 8 May 2014 – Fri 1 May 2015
+
+Find and impute missing words in the billion word corpus
 
 ======
 
