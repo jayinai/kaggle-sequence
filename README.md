@@ -21,6 +21,30 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+
+Fri 28 Feb 2014 – Sat 28 Feb 2015
+
+Classify the sentiment of sentences from the Rotten Tomatoes dataset
+
+======
+
+### [Predict seizures in intracranial EEG recordings](https://www.kaggle.com/c/seizure-prediction)
+
+Mon 25 Aug 2014 – Mon 17 Nov 2014
+
+Predict seizures in intracranial EEG recordings
+
+======
+
+### [Tradeshift Text Classification](https://www.kaggle.com/c/tradeshift-text-classification)
+
+Thu 2 Oct 2014 – Mon 10 Nov 2014
+
+Classify text blocks in documents
+
+======
+
 ### [The Hunt for Prohibited Content](https://www.kaggle.com/c/avito-prohibited-content)
 
 Tue 24 Jun 2014 – Sun 31 Aug 2014
